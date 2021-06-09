@@ -1,0 +1,14 @@
+App\Entity\Producto:
+  attributes:
+    id:
+      groups: ["producto"]
+    name:
+      groups: ["producto"]
+    descripcion:
+      groups: ["producto"]
+    precio:
+      groups: ["producto"]
+    image:
+      groups: ["producto"]
+#    categoria:
+#      groups: ["producto"]
