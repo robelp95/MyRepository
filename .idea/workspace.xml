@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb575a6a-84c4-44f0-b6c2-38dd72882e85" name="Default Changelist" comment="first">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b79e49074013.15656765.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b79e681fab04.08665431.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b79e748b5ff3.67687143.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7a05639cb84.34370914.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7a0a0e45c09.83529961.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7a198624f11.57154874.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7a1a6d1ef31.35761206.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7a1d2e4bc47.92495303.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7afe8d98443.43068119.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7b29eb414b1.42951643.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7daa481b619.40746191.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7de0f3028d4.61415981.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7dfb61e6cc3.70638413.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7dff3403e50.67210236.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7e0171a6826.11976390.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7e067141f63.05782835.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7e0b1d0b1b5.58080403.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/storage/default/producto_60b7e0c38920a7.02096929.jpeg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/debug.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/doctrine.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/flysystem.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/fos_rest.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/nelmio_cors.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/prod/doctrine.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/sensio_framework_extra.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/doctrine.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/twig.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/validator.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/validator.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes/annotations.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migrations/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migrations/Version20210602034115.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Entity/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Entity/Categoria.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Entity/Producto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Form/CategoriaType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Form/Model/ProductoDto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Form/ProductoFormType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Form/ProductoType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Repository/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Repository/CategoriaRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Repository/ProductoRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -708,7 +662,7 @@
       <workItem from="1621141581826" duration="6828000" />
       <workItem from="1621149330413" duration="33307000" />
       <workItem from="1622620743978" duration="2468000" />
-      <workItem from="1622601952380" duration="31776000" />
+      <workItem from="1622601952380" duration="31967000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1623249000531</created>
@@ -717,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1623249000531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1623250646459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623250646459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79447000" />
+    <option name="totallyTimeSpent" value="79638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
